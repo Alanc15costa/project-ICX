@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body {
+    background-color: rgb(226, 228, 230);
+  }
+
+.text1{
+
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    width: 63px;
+    height: 25px;
+
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 32px;
+
+    color: #777777;
+}
