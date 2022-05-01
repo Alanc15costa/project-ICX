@@ -58,8 +58,9 @@
 }
 .topicStyel{
   font-size: 25px;
-  margin-left: 625px;
+  margin-left: 590px;
   font-weight: bolder;
+  color: #888888;
 }
 #imagens2{
   margin-left: 340px;
@@ -67,7 +68,8 @@
 .texto0{
   font-size: 18px;
   font-weight: bolder;
-  margin-left: -320px;
+  margin-left: -340px;
+  color: #FFFFFF;
 }
 .footer{
   display: inline-flex;
@@ -92,7 +94,6 @@
   line-height: 12px;
   width: 200px;
 }
-
 #instagram{
   margin-radius: 5px;
   margin-left: -195px;
