@@ -39,7 +39,10 @@
     margin-right: -10px;
 }
 #price{
-    font-size: 13px;
+    font-size: 14px;
+    color: #888888;
+    font-weight: bolder;
+    margin: 5%;
 }
 #description{
   font-size: 12px;
@@ -48,7 +51,7 @@
   margin-top: 5px;
 }
 .fase2{
-  height: 242px;
+  height: 272px;
   width: 256px;
   margin-left: 92px;
   background-color: #EEEEEE;
