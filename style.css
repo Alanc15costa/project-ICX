@@ -1,22 +1,71 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-
-body {
-    background-color: rgb(226, 228, 230);
-  }
-
-.text1{
-
-    font-family: 'Roboto', sans-serif;
-    position: absolute;
-    width: 63px;
+.header {
+    background: #ffffff;
+/*    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25); */
+}
+#logo-1 {
     height: 25px;
+    width: 63px;
+    margin-top: 8px;
+    margin-left: 340px;
+    margin-bottom: 16px;
+}
+#logo-2 {
+    height: 22px;
+    width: 38px;
+    margin-bottom: 15px;
+}
+#logo-3 {
+    margin-left: 480px;
+    margin-bottom: 19px;
+}
+.foto-tópic {
+    margin-left: 340px
+}
 
-    font-family: 'Ropa Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 32px;
-
-    color: #777777;
+.fases{
+  display: inline-flex;
+}
+.fase1{
+  height: 272px;
+  width: 256px;
+  margin-left: 340px;
+  background-color: #EEEEEE;
+}
+#tema {
+    height: 144px;
+    width: 256px;
+    margin-right: -10px;
+}
+#price{
+    font-size: 13px;
+}
+#description{
+  font-size: 12px;
+  margin-left: 12px;
+  text-align: align;
+  margin-top: 5px;
+}
+.fase2{
+  height: 242px;
+  width: 256px;
+  margin-left: 92px;
+  background-color: #EEEEEE;
+}
+.topicStyel{
+  font-size: 25px;
+  margin-left: 625px;
+  font-weight: bolder;
+}
+#imagens2{
+  margin-left: 340px;
+}
+.texto0{
+  font-size: 18px;
+  font-weight: bolder;
+  margin-left: -320px;
+}
+.fooster{
+  background-color: #333333;
 }
