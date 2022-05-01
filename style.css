@@ -70,5 +70,9 @@
   margin-left: -320px;
 }
 .fooster{
+  display: inline-flex;
   background-color: #333333;
+  margin-top: 57px;
+  height: 243px;
+  width: 697px;
 }
