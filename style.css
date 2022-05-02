@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-.header {
-    background: #ffffff;
-/*    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25); */
-}
+
 #logo-1 {
     height: 25px;
     width: 63px;
@@ -62,21 +59,59 @@
   font-weight: bolder;
   color: #888888;
 }
-#imagens2{
+#industrial{
+  margin-top: -11px;
+  opacity: 75%;
   margin-left: 340px;
+  height: 80px;
+  width: 608px;
+  background-image: url(/Img/Rectangle\ 11\ \(1\).png);
+  margin-bottom: 13px;
 }
-.texto0{
-  font-size: 18px;
+#industrial p{
+  color: #000000;
+  text-align: center;
+  padding-top: 27.5px;
+  font-size: 25px;
   font-weight: bolder;
-  margin-left: -340px;
-  color: #FFFFFF;
-  margin-top: -25px;
+}
+#modern{
+  margin-top: 12px;
+  opacity: 75%;
+  margin-left: 340px;
+  height: 80px;
+  width: 608px;
+  background-image: url(/Img/Rectangle\ 12\ \(1\).png);
+  margin-bottom: 13px;
+}
+#modern p{
+  color: #000000;
+  text-align: center;
+  padding-top: 27.5px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+#classic{
+  margin-top: 12px;
+  opacity: 75%;
+  margin-left: 340px;
+  height: 80px;
+  width: 608px;
+  background-image: url(/Img/Rectangle\ 13\ \(1\).png);
+  margin-bottom: 13px;
+}
+#classic p{
+  color: #000000;
+  text-align: center;
+  padding-top: 27.5px;
+  font-size: 25px;
+  font-weight: bolder;
 }
 .footer{
   display: inline-flex;
   background-color: #333333;
   margin-left: 340px;
-  margin-top: 20px;
+  margin-top: 5px;
   height: 223px;
   width: 607px;
 }
